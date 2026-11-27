@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "package": "org.inferno.skintrade.dev",
+  "version_code": 3,
+  "version_name": "0.1.2",
+  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-update-bridge-v1/Inferno-debug.apk",
+  "save_policy": "preserve",
+  "notes": "The development update bridge preserves your existing save and enables later in-game update prompts."
+}
+
