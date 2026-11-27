@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "package": "org.inferno.skintrade.dev",
-  "version_code": 5,
-  "version_name": "0.1.4",
-  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-upgrades-vesper-v1/Inferno-debug.apk",
+  "version_code": 6,
+  "version_name": "0.1.5",
+  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-status-help-v1/Inferno-debug.apk",
   "save_policy": "preserve",
-  "notes": "Upgrade previews now require confirmation; Vesper's Exchange story recognizes prior assignments. Preserves your save."
+  "notes": "The top bar separates skins, ordinary larvae, promising souls, and developed fiends. Tap any count for details. Preserves your save."
 }
