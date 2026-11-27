@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "package": "org.inferno.skintrade.dev",
-  "version_code": 7,
-  "version_name": "0.1.6",
-  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-update-visibility-v1/Inferno-debug.apk",
+  "version_code": 8,
+  "version_name": "0.1.7",
+  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-dialog-stack-v1/Inferno-debug.apk",
   "save_policy": "preserve",
-  "notes": "Update checks now show progress and a result at launch. Report includes Check updates and Downloads. Your save is preserved."
+  "notes": "Fixed overlapping Vesper and torment-loss dialogs after offline progress. Your save is preserved."
 }
