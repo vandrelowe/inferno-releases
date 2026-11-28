@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "package": "org.inferno.skintrade.dev",
-  "version_code": 11,
-  "version_name": "0.1.10",
-  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-combined-playtest-v1/Inferno-debug.apk",
+  "version_code": 12,
+  "version_name": "0.1.11",
+  "apk_url": "https://github.com/vandrelowe/inferno-releases/releases/download/android-dev-2026-11-27-ritual-first-branches-v1/Inferno-debug.apk",
   "save_policy": "preserve",
-  "notes": "Mara's claim stays cheapest and shortest. New Exchange, Chac Mool, Ritual, and character development screens; visual citadel perimeter. Your save is preserved. Some character art remains unfinished."
+  "notes": "Three playable rites: Broker's Charter opens the next Exchange purchase, Iron Muster improves new raids, and Stone Calibration improves new Stone jobs. Your save is preserved. Some character art remains unfinished."
 }
